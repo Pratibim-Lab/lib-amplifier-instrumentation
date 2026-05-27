@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA333xxDGK:INA333xxDGK",
+  "name": "INA333xxDGK",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA333xxDGK.kicad_sym",
+  "description": "Zero Drift, Micropower Instrumentation Amplifier G = 1 + 100kOhm/Rg, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina333.pdf",
+  "keywords": "instrumentation opamp amplifier",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA333xxDGK/",
+  "part_path": "parts/INA333xxDGK",
+  "symbol_file": "parts/INA333xxDGK/INA333xxDGK.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:28.213Z"
+}

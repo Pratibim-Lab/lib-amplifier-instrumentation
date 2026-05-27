@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA849DGK:INA849DGK",
+  "name": "INA849DGK",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA849DGK.kicad_sym",
+  "description": "Ultra-Low-Noise (1 nV/√Hz), 28 MHz Bandwidth, Instrumentation Amplifier, Supply Range 8V to 36V, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina849.pdf",
+  "keywords": "high-common-mode-rejection low-offset-drift low-gain-drift",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "AD8422ARMZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA849DGK/",
+  "part_path": "parts/INA849DGK",
+  "symbol_file": "parts/INA849DGK/INA849DGK.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:34.043Z"
+}

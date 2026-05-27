@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/AD8236ARMZ:AD8236ARMZ",
+  "name": "AD8236ARMZ",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/AD8236ARMZ.kicad_sym",
+  "description": "Micropower Instumentation Amplifier with Zero Crossover Distortion, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8236.pdf",
+  "keywords": "ad8236 instumentation amplifier msop-8",
+  "footprint": "",
+  "extends": "AD8422ARMZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/AD8236ARMZ/",
+  "part_path": "parts/AD8236ARMZ",
+  "symbol_file": "parts/AD8236ARMZ/AD8236ARMZ.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:10.286Z"
+}

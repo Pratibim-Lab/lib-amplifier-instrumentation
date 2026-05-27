@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA849D:INA849D",
+  "name": "INA849D",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA849D.kicad_sym",
+  "description": "Ultra-Low-Noise (1 nV/√Hz), 28 MHz Bandwidth, Instrumentation Amplifier, Supply Range 8V to 36V, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina849.pdf",
+  "keywords": "high-common-mode-rejection low-offset-drift low-gain-drift",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "AD8422ARMZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA849D/",
+  "part_path": "parts/INA849D",
+  "symbol_file": "parts/INA849D/INA849D.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:33.119Z"
+}

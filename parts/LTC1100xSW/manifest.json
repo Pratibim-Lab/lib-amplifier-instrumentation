@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/LTC1100xSW:LTC1100xSW",
+  "name": "LTC1100xSW",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/LTC1100xSW.kicad_sym",
+  "description": "Single Precision, Zero-Drift Instrumentation Amplifier, Gain = 10/100, SOIC-16W",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1100fc.pdf",
+  "keywords": "single instrumentation amp",
+  "footprint": "Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/LTC1100xSW/",
+  "part_path": "parts/LTC1100xSW",
+  "symbol_file": "parts/LTC1100xSW/LTC1100xSW.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:36.026Z"
+}

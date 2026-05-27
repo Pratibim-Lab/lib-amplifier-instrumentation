@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/AD8429ARZ:AD8429ARZ",
+  "name": "AD8429ARZ",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/AD8429ARZ.kicad_sym",
+  "description": "Low Noise, Instumentation Amplifier, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8429.pdf",
+  "keywords": "ad8429 instumentation amplifier soic-8",
+  "footprint": "",
+  "extends": "AD8422ARZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/AD8429ARZ/",
+  "part_path": "parts/AD8429ARZ",
+  "symbol_file": "parts/AD8429ARZ/AD8429ARZ.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:22.299Z"
+}

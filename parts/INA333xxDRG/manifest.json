@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA333xxDRG:INA333xxDRG",
+  "name": "INA333xxDRG",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA333xxDRG.kicad_sym",
+  "description": "Zero Drift, Micropower Instrumentation Amplifier G = 1 + 100kOhm/Rg, WSON-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ina333.pdf",
+  "keywords": "instrumentation opamp amplifier",
+  "footprint": "Package_SON:WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA333xxDRG/",
+  "part_path": "parts/INA333xxDRG",
+  "symbol_file": "parts/INA333xxDRG/INA333xxDRG.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:29.205Z"
+}

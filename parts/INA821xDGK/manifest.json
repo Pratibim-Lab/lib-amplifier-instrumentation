@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA821xDGK:INA821xDGK",
+  "name": "INA821xDGK",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA821xDGK.kicad_sym",
+  "description": "4.7 MHz Bandwidth, Low Offset, Low-Power, Precision Instrumentation Amplifier, G = 1 + 49.4kOhm/Rg, 4.5 V to 36 V Supply, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/gpn/ina821",
+  "keywords": "opamp operational-amplifier",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "INA849D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA821xDGK/",
+  "part_path": "parts/INA821xDGK",
+  "symbol_file": "parts/INA821xDGK/INA821xDGK.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:31.150Z"
+}

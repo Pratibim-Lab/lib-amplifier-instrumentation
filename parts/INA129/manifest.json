@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA129:INA129",
+  "name": "INA129",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA129.kicad_sym",
+  "description": "Precision, Low Power Instrumentation Amplifier G = 1 + 49.4kOhm/Rg, DIP-8/SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina128.pdf",
+  "keywords": "instrumentation opamp",
+  "footprint": "",
+  "extends": "INA128",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA129/",
+  "part_path": "parts/INA129",
+  "symbol_file": "parts/INA129/INA129.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:25.191Z"
+}

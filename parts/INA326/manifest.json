@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA326:INA326",
+  "name": "INA326",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA326.kicad_sym",
+  "description": "Precision, Rail-to-Rail I/O Instrumentation Amplifier, MSOP-8 package",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ina326.pdf",
+  "keywords": "instrumentation opamp",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA326/",
+  "part_path": "parts/INA326",
+  "symbol_file": "parts/INA326/INA326.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:26.203Z"
+}

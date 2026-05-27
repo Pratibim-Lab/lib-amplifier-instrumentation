@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/AD623ARZ:AD623ARZ",
+  "name": "AD623ARZ",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/AD623ARZ.kicad_sym",
+  "description": "Single Supply, Rail to Rail, Instumentation Amplifier, RoHS, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf",
+  "keywords": "ad623 instumentation amplifier soic-8",
+  "footprint": "",
+  "extends": "AD623AR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/AD623ARZ/",
+  "part_path": "parts/AD623ARZ",
+  "symbol_file": "parts/AD623ARZ/AD623ARZ.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:02.327Z"
+}

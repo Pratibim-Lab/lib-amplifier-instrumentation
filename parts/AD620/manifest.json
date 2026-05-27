@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/AD620:AD620",
+  "name": "AD620",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/AD620.kicad_sym",
+  "description": "Low Cost, Low Power, Instrumentation Amplifier, DIP-8/SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf",
+  "keywords": "Instrumentation amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/AD620/",
+  "part_path": "parts/AD620",
+  "symbol_file": "parts/AD620/AD620.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:33:55.091Z"
+}

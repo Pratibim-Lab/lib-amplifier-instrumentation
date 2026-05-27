@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/INA821xD:INA821xD",
+  "name": "INA821xD",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/INA821xD.kicad_sym",
+  "description": "4.7 MHz Bandwidth, Low Offset, Low-Power, Precision Instrumentation Amplifier, G = 1 + 49.4kOhm/Rg, 4.5 V to 36 V Supply, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/gpn/ina821",
+  "keywords": "opamp operational-amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "INA849D",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/INA821xD/",
+  "part_path": "parts/INA821xD",
+  "symbol_file": "parts/INA821xD/INA821xD.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:30.182Z"
+}

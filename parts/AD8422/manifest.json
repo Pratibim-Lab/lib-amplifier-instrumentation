@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/AD8422:AD8422",
+  "name": "AD8422",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/AD8422.kicad_sym",
+  "description": "Single High Performance, Low Power, Rail-to-Rail Precision Instrumentation Amplifier, SOIC-8/MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8422.pdf",
+  "keywords": "single instumentation amplifier",
+  "footprint": "",
+  "extends": "AD8236",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/AD8422/",
+  "part_path": "parts/AD8422",
+  "symbol_file": "parts/AD8422/AD8422.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:16.311Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Instrumentation/AD8421BRMZ:AD8421BRMZ",
+  "name": "AD8421BRMZ",
+  "library": "Amplifier_Instrumentation",
+  "file": "Amplifier_Instrumentation.kicad_symdir/AD8421BRMZ.kicad_sym",
+  "description": "Low Power, Instumentation Amplifier, MSOP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8421.pdf",
+  "keywords": "ad8421 instumentation amplifier msop-8",
+  "footprint": "",
+  "extends": "AD8422ARMZ",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-instrumentation@master/parts/AD8421BRMZ/",
+  "part_path": "parts/AD8421BRMZ",
+  "symbol_file": "parts/AD8421BRMZ/AD8421BRMZ.kicad_sym",
+  "source_library": "Amplifier_Instrumentation.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:34:14.321Z"
+}
